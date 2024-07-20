@@ -67,5 +67,5 @@
   
 ---
 ## 아키텍쳐
-### Flutter
-### Server
+> Flutter : MVC <br>
+> Server : MVC
