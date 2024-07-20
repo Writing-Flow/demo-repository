@@ -40,7 +40,7 @@
 | 스플래쉬  |  로그인  | 작문 |
 | :-------------------------------------------: | :------------: | :------------: |
 |  <img width="329" src="https://github.com/user-attachments/assets/df08a602-b1c4-4c60-a0f9-377f5a525329"/> |  <img width="329" src="https://github.com/user-attachments/assets/951a1375-3c2f-48c4-85e8-950768c569ee"/>| <img width="329" src="https://github.com/user-attachments/assets/e41111f0-6959-47ea-b948-8c481cf62744"/>
-| **사전** | **퀴즈** |  **마이페이지** |
+| **사전** | **마이페이지** |  **퀴즈** |
 | <img width="329" src="https://github.com/user-attachments/assets/479b55c6-05d2-4161-b27c-6fecb5fb7b80"/>   |  <img width="329" src="https://github.com/user-attachments/assets/7a807c40-a89f-4d80-892d-82d25b565351"/>|<img width="329" src="https://github.com/user-attachments/assets/f7148fe7-0b05-4c72-b725-0932dad27bb5"/> |
 
 ---
