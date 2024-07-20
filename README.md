@@ -1,8 +1,7 @@
 # 바쁜 일상 속 작은 작문, 글나래 
 
 <div align="center">
-<img width="329" alt="image" src="">
-
+<img width="329" alt="image" src="https://github.com/user-attachments/assets/38d3eee1-7326-4df6-84de-38e0c0c68ff9">
 </div>
 
 # 한국공학대학교(TUK) 현장프로젝트
@@ -37,14 +36,15 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 
 ---
-## 화면 구성 📺
-| 메인 페이지  |  소개 페이지   |
-| :-------------------------------------------: | :------------: |
-|  <img width="329" src="https://ifh.cc/g/Cpn6mQ.jpg"/> |  <img width="329" src="https://ifh.cc/g/Cpn6mQ.jpg"/>|  
-| 페이지 1   |  페이지 2   |  
-| <img width="329" src="https://ifh.cc/g/Cpn6mQ.jpg"/>   |  <img width="329" src="https://ifh.cc/g/Cpn6mQ.jpg"/>     |
+## 화면 예시 📺
+| 스플래쉬  |  로그인  | 작문 |
+| :-------------------------------------------: | :------------: | :------------: |
+|  <img width="329" src="https://github.com/user-attachments/assets/df08a602-b1c4-4c60-a0f9-377f5a525329"/> |  <img width="329" src="https://github.com/user-attachments/assets/951a1375-3c2f-48c4-85e8-950768c569ee"/>| <img width="329" src="https://github.com/user-attachments/assets/e41111f0-6959-47ea-b948-8c481cf62744"/>
+| **사전** | **퀴즈** |  **마이페이지** |
+| <img width="329" src="https://github.com/user-attachments/assets/479b55c6-05d2-4161-b27c-6fecb5fb7b80"/>   |  <img width="329" src="https://github.com/user-attachments/assets/7a807c40-a89f-4d80-892d-82d25b565351"/>|<img width="329" src="https://github.com/user-attachments/assets/f7148fe7-0b05-4c72-b725-0932dad27bb5"/> |
 
 ---
+
 ## 주요 기능 📦
 
 ### ⭐️ 오늘의 단어 작문
