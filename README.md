@@ -37,7 +37,7 @@
 
 ---
 ## 화면 예시 📺
-| 스플래쉬  |  로그인  | 작문 |
+| 스플래쉬  |  인트로  | 작문 |
 | :-------------------------------------------: | :------------: | :------------: |
 |  <img width="329" src="https://github.com/user-attachments/assets/df08a602-b1c4-4c60-a0f9-377f5a525329"/> |  <img width="329" src="https://github.com/user-attachments/assets/951a1375-3c2f-48c4-85e8-950768c569ee"/>| <img width="329" src="https://github.com/user-attachments/assets/e41111f0-6959-47ea-b948-8c481cf62744"/>
 | **사전** | **마이페이지** |  **퀴즈** |
